@@ -7,7 +7,7 @@
 // Create f3 object then set various global properties of it
 // These are available to the routing code below, but also to any 
 // classes defined in autoloaded definitions
-// comment
+// 
 $f3 = require('../../AboveWebRoot/fatfree-master/lib/base.php');
 
 // autoload Controller class(es) and anything hidden above web root, e.g. DB stuff
